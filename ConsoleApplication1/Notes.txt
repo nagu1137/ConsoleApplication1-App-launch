@@ -1,2 +1,11 @@
 Method1:nonelevated(0 function tries to launc with duplicatin token of existinguser process.current status: CreateProcessWithTokenW is failing for some reason as i did many changes im un sure 
+https://stackoverflow.com/questions/11169431/how-to-start-a-new-process-without-administrator-privileges-from-a-process-with/11170036#11170036
+
+https://stackoverflow.com/questions/5447418/why-is-createprocesswithtokenw-failing-with-error-access-denied
+
+
+
+
 Method2:_IsNewProcessLaunched uses another method by removing admin priviliges and launches.
+https://stackoverflow.com/questions/16099787/removing-administrator-privilages-from-process
+
