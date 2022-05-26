@@ -1,0 +1,2 @@
+Method1:nonelevated(0 function tries to launc with duplicatin token of existinguser process.current status: CreateProcessWithTokenW is failing for some reason as i did many changes im un sure 
+Method2:_IsNewProcessLaunched uses another method by removing admin priviliges and launches.
